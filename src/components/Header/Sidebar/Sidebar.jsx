@@ -26,7 +26,7 @@ const Sidebar = ({ setIsSidebarOpen }) => {
             </li>
           )
         })}
-        <li>
+        <li className="mb-4">
           <a
             href={`https://drive.google.com/file/d/1kKDnwmkkmOVLQE8tWQbY7Uwo0S7l45Bx/view?usp=drive_link`}
             target="_blank"
