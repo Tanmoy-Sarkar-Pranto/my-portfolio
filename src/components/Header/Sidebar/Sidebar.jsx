@@ -26,6 +26,15 @@ const Sidebar = ({ setIsSidebarOpen }) => {
             </li>
           )
         })}
+        <li>
+          <a
+            href={`https://drive.google.com/file/d/1kKDnwmkkmOVLQE8tWQbY7Uwo0S7l45Bx/view?usp=drive_link`}
+            target="_blank"
+            className=" font-inter font-bold text-slate-950 focus:text-orange-500 hover:text-orange-500 "
+          >
+            Resume
+          </a>
+        </li>
       </ul>
     </div>
   )
