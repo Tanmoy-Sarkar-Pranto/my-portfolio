@@ -19,7 +19,7 @@ const SingleProject = ({ project }) => {
               className="w-[5rem] h-[3rem] flex justify-center items-center border-2 border-gray-800 rounded-lg hover:bg-black focus:bg-black hover:text-white focus:text-white"
               key={index}
             >
-              <span className="text-sm">{tech}</span>
+              <span className="text-sm text-center">{tech}</span>
             </div>
           )
         })}
