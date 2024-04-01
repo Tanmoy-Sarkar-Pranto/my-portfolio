@@ -1,0 +1,13 @@
+@tailwind base;
+html {
+  scroll-behavior: smooth;
+}
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .heroSectionSpecialFont {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: bold;
+  }
+}

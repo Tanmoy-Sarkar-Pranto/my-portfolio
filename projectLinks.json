@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Online Store",
+    "image": "./src/assets/project screenshots/online-store.png",
+    "description": "In this project, I created an online store with register and login functionality, verification is done using jwt token. User can search among different items. Cart and checkout page is also here. User can also change theme between light and dark.",
+    "techStack": [
+      "React.js",
+      "Redux Toolkit",
+      "React Router",
+      "Tailwind CSS",
+      "Express.js"
+    ],
+    "liveLink": "https://online-store-qre0.onrender.com/",
+    "repoLink": "https://github.com/Tanmoy-Sarkar-Pranto/Online-Store"
+  },
+  {
+    "name": "Cocktails Recipe",
+    "image": "./src/assets/project screenshots/cocktails-recipe.png",
+    "description": "In this project, I created a recipe website where people can check how to make any particular cocktail of their liking. I used cocktailDB api for this, which is free to use. Search functionality is also available here.",
+    "techStack": ["React.js", "Redux Toolkit", "React Router", "Tailwind CSS"],
+    "liveLink": "https://cocktails-react.onrender.com/",
+    "repoLink": "https://github.com/Tanmoy-Sarkar-Pranto/Cocktails-React"
+  },
+  {
+    "name": "Advice Generator",
+    "image": "./src/assets/project screenshots/advice-generator.png",
+    "description": "This is a simple project I did, where a random advice is generated when a button is clicked. I used Advice Slip JSON API for the task.",
+    "techStack": ["React.js", "Tailwind CSS"],
+    "liveLink": "https://advice-generator-react.onrender.com/",
+    "repoLink": "https://github.com/Tanmoy-Sarkar-Pranto/advice-generator-react"
+  },
+  {
+    "name": "Interactive Card",
+    "image": "./src/assets/project screenshots/interactive-card.png",
+    "description": "In this project, I created a form where user can input their card information and those information will be shown live in the card, so the update will be in real time. This can be used in many websites where online transactions are required.",
+    "techStack": ["React.js", "Tailwind CSS"],
+    "liveLink": "https://interactive-card-react.onrender.com/",
+    "repoLink": "https://github.com/Tanmoy-Sarkar-Pranto/interactive-card-react"
+  }
+]
